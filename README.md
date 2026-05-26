@@ -44,9 +44,6 @@
 | `src/contentScript/ariaAnalyzer.js` | Логіка ARIA-аналізу і підвищення семантики сторінки           |
 | `src/contentScript/profiles/*.js`   | Реалізації CSS і DOM-фіксів для кожного профілю               |
 | `src/background/index.js`           | Фоновий service worker для розширення                         |
-| `src/options/Options.jsx`           | Сторінка налаштувань (опціональний інтерфейс)                 |
-| `src/sidepanel/SidePanel.jsx`       | Сайд-панель для Chrome DevTools / UI розширення               |
-
 ---
 
 ## ▶️ Як запустити проєкт "з нуля"
@@ -126,8 +123,6 @@ npm run build
 - Popup з вибором профілю
 - Сторінка з підвищеним контрастом
 - Результати ARIA-аналізу
-
-Додайте зображення у папку `/screenshots/` для ілюстрації інтерфейсу.
 
 ---
 
