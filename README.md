@@ -121,12 +121,19 @@ npm run build
 ## 📷 Приклади / скриншоти
 
 - Popup з вибором профілю
-![Головний інтерфейс](./screenshots/Picture1.png)
-![Головний інтерфейс](./screenshots/Picture2.png)
+
+  ![Головний інтерфейс](./screenshots/Picture1.png)
+
+  ![Головний інтерфейс](./screenshots/Picture2.png)
+
 - Сторінка з підвищеним контрастом
-![Сторінка з підвищеним контрастом](./screenshots/Picture3.png)
+
+  ![Сторінка з підвищеним контрастом](./screenshots/Picture3.png)
+
 - Результати ARIA-аналізу
-![Сторінка з підвищеним контрастом](./screenshots/Picture4.png)
+
+  ![Результати ARIA-аналізу](./screenshots/Picture4.png)
+
 ---
 
 ## 🧪 Проблеми і рішення
